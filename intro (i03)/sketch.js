@@ -1,3 +1,6 @@
+// objtivo do exercicio:
+// ilustrar a diferença do movimento unidimencional da circunferencia utilizando noise e random
+
 let xoff = 0
 
 function setup() {
@@ -16,5 +19,3 @@ function draw() {
 
   ellipse(x, 200, 24, 24);
 }
-
-
